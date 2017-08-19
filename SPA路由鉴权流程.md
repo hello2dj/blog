@@ -1,0 +1,2 @@
+### SPA路由鉴权流程
+![](https://thumbnail0.baidupcs.com/thumbnail/2e63f73367660e00b196e3f328a7303a?fid=917901536-250528-283111164565595&time=1503108000&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-YkajTDL1X9DryBjCfhc0%2fB64hx8%3d&expires=8h&chkbd=0&chkv=0&dp-logid=5344569423114337758&dp-callid=0&size=c1280_u800&quality=90&vuk=917901536&ft=image)
