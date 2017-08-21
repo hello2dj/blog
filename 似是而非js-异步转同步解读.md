@@ -170,6 +170,30 @@
   接下来是作者原话了
   到此我们就完成了generator到function的转换，，这段代码本身也解释清楚了generator的本质，高阶函数，片段生成器，或者直接叫做函数生成器
   (这一部分有很多可以聊得，再聊)
+  > 来补债了
+  这个原因经过作者的指导问题是这么来的
+
+  ```
+  function* g() {
+    yield  var a = 123
+    yield  console.log(a);
+  }
+  function g() {  
+    let state = { 
+      next: () => { 
+      state.next = f1 
+    } 
+  }  
+  function f1() { 
+    var a = 123    
+    state.next = f2 
+  } 
+  function f2() { console.log(a) } }
+  ```
+  就好比上面代码的转换过程，由于有变量提升的问题, generator中的console.log（a）是有输出的，而转换过后的是没有的，这就是其中作用域的坑
+  
+  其实这个东西，如果把代码写出来估计大家都能看出问题来，可若是没有的话，会有点儿没注意这个代码的转换问题，我还以为是之前的转换代码本身有问题，其实是这种转换，本身对于js作用域的割裂（**************）
+
   其实，在不知不觉中，我们已经重新发明了计算机科学中大名鼎鼎的CPS变换https://en.wikipedia.org/wiki/Continuation-passing_style
   最后的最后，容我向大家介绍一下facebook的CPS自动变换工具--regenerator。他在我们的基础上修正了作用域的缺陷，让generator在es5的世界里自然优雅。我们向facebook脱帽致敬！！https://github.com/facebook/regenerator
   > 推荐阅读 计算机程序的构造和解释 第一章generator部分实际上我们提供的解决方式存在缺陷，请从作用域角度谈谈（没有搞懂。。。还是菜啊，真是没看出来）
