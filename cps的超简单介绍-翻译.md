@@ -334,6 +334,6 @@ total_fact(-1, function (res) {
 ```
 ### cps与编译
 再过去的几十年里，cps在函数式语言的编译器中是中间显示的重要工具
-cps 去掉了retrun, 异常和first-clas continuations的语法糖
+cps 去掉了retrun, 异常和first-class continuations(将continuation作为编程语言的一等公民)的语法糖
 总之一句话，cps在编译领域起了很大的作用
 接下来的就是Lisp语言的一些东西了，暂时还不懂，等看懂了再说吧流泪啊啊啊啊啊
