@@ -20,3 +20,18 @@ ngular.module('app')
 ```
 
 我们的项目在定义了多个modules以后，发下只要不加serie为true这个选项，就会出现，文件加载了，但是却没有起作用，于是下了狠心去看了看他的源码，发现其实并没有啥很奇特的地方
+
+### ui-modules的一些问题
+子路由激活时父路由必须处于激活状态， 如grandparent/parent/child/ child页面想要激活必须如下
+```
+<grandparent>
+  <ui-view></ui-view>
+</grandparent>
+
+<parent>
+  <ui-view></ui-view>
+</parent>
+
+<child></child>
+//child必须在parent的ui-view中渲染，不能直接在grandparent的ui-view中渲染，是不会被渲染出来的
+```

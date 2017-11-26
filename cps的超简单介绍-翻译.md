@@ -1,5 +1,7 @@
 关于CPS [原文地址](http://matt.might.net/articles/by-example-continuation-passing-style/)
 
+state = (Store, Continuation, Env) 计算机的状态转换
+
 cps是在1970s出现的一种编程风格，在1980s和1990s作为高级语言编译器的中间展示形式有着突出的表现
 如今他作为非阻塞系统的编程风格再次被提起(通常是分布式)
 cps在我的心中始终战友一席之地，因为他是我在Ph.D时期的秘密武器，他缩短了我取得Ph.D的时间，并且减少很多痛苦（agnoy）
