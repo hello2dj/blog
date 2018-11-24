@@ -7,3 +7,4 @@
 5. [迭代器和抽象漏洞](https://github.com/hello2dj/blog/issues/9)
 6. [变量命名](https://github.com/hello2dj/blog/issues/10)
 8. [golang in actions](https://github.com/hello2dj/blog/issues/11)
+9. [go学习流水笔记](https://github.com/hello2dj/blog/issues/12)
