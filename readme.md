@@ -20,3 +20,4 @@
 19. [数据可视化概念科普](https://github.com/hello2dj/blog/issues/29)
 20. [rust学习知识点](https://github.com/hello2dj/blog)
 21. [v8-snapshot解析(heapdump的文件)](https://github.com/hello2dj/blog/issues/32)
+22. [你可能不知道的chrome-dev工具](https://github.com/hello2dj/blog/issues/33)
