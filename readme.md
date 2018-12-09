@@ -26,4 +26,4 @@
 25. [用angular的体系来写node](https://github.com/hello2dj/blog/issues/37)
 26. [node定时器相关](https://github.com/hello2dj/blog/issues/38)
 27. [代码金字塔](https://github.com/hello2dj/blog/issues/40)
-28. [响应式编程]](https://github.com/hello2dj/blog/issues/40)
+28. [响应式编程](https://github.com/hello2dj/blog/issues/43)
