@@ -31,3 +31,4 @@
 30. [分布式基础](https://github.com/hello2dj/blog/issues/46)
 31. [rxjs和promise/async/await组合使用](https://github.com/hello2dj/blog/issues/47)
 32. [hot VS code in rxjs](https://github.com/hello2dj/blog/issues/48)
+33. [简话协变和逆变](https://github.com/hello2dj/blog/issues/49)
