@@ -27,3 +27,4 @@
 26. [node定时器相关](https://github.com/hello2dj/blog/issues/38)
 27. [代码金字塔](https://github.com/hello2dj/blog/issues/40)
 28. [响应式编程](https://github.com/hello2dj/blog/issues/43)
+29. [rxjs 原理解析](https://github.com/hello2dj/blog/issues/44)
