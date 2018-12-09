@@ -15,3 +15,4 @@
 14. [实战CPS(Continuation-passing style)](https://github.com/hello2dj/blog/issues/19)
 15. [CSS优秀blog列表 ](https://github.com/hello2dj/blog/issues/20)
 16. [web优化之compositing layers](https://github.com/hello2dj/blog/issues/26)
+17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
