@@ -18,3 +18,4 @@
 17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 18. [似是而非的JS - 异步调用可以转化为同步调用吗？（总结）](https://github.com/hello2dj/blog/issues/28)
 19. [数据可视化概念科普](https://github.com/hello2dj/blog/issues/29)
+20. [rust学习知识点](https://github.com/hello2dj/blog)
