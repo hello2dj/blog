@@ -29,3 +29,4 @@
 28. [响应式编程](https://github.com/hello2dj/blog/issues/43)
 29. [rxjs 原理解析](https://github.com/hello2dj/blog/issues/44)
 30. [分布式基础](https://github.com/hello2dj/blog/issues/46)
+31. [rxjs和promise/async/await组合使用](https://github.com/hello2dj/blog/issues/47)
