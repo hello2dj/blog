@@ -1,5 +1,5 @@
 ### 写出来的其实都是留给自己的
-
+17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 1. [业务 > 技术 or 技术 > 业务](https://github.com/hello2dj/blog/issues/2)
 2. [instanceof带来的思考与es规范的研究](https://github.com/hello2dj/blog/issues/6)
 3. [libuv overview and a C queue operation's analysis(copy)](https://github.com/hello2dj/blog/issues/7)
@@ -15,7 +15,6 @@
 14. [实战CPS(Continuation-passing style)](https://github.com/hello2dj/blog/issues/19)
 15. [CSS优秀blog列表 ](https://github.com/hello2dj/blog/issues/20)
 16. [web优化之compositing layers](https://github.com/hello2dj/blog/issues/26)
-17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 18. [似是而非的JS - 异步调用可以转化为同步调用吗？（总结）](https://github.com/hello2dj/blog/issues/28)
 19. [数据可视化概念科普](https://github.com/hello2dj/blog/issues/29)
 20. [rust学习知识点](https://github.com/hello2dj/blog)
