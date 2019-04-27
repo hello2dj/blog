@@ -1,4 +1,4 @@
-### 写出来的其实都是留给自己的
+### good
 17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 1. [业务 > 技术 or 技术 > 业务](https://github.com/hello2dj/blog/issues/2)
 2. [instanceof带来的思考与es规范的研究](https://github.com/hello2dj/blog/issues/6)
