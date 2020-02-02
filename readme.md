@@ -2,6 +2,7 @@
 
 ### good
 https://ericliang.info/2015/09/15/technology-selection-trolls-courage-and-product-sense.html
+https://ericliang.info/2015/05/30/after-the-collapse.html
 
 17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 1. [业务 > 技术 or 技术 > 业务](https://github.com/hello2dj/blog/issues/2)
