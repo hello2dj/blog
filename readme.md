@@ -1,3 +1,5 @@
+失败不可怕，可怕的是没有总结，因为没有总结就没有提高。而比没有总结更可怕的是乱总结。
+
 ### good
 17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
 1. [业务 > 技术 or 技术 > 业务](https://github.com/hello2dj/blog/issues/2)
