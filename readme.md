@@ -1,11 +1,8 @@
 失败不可怕，可怕的是没有总结，因为没有总结就没有提高。而比没有总结更可怕的是乱总结。
 
 ### good
-https://ericliang.info/2015/09/15/technology-selection-trolls-courage-and-product-sense.html
-https://ericliang.info/2015/05/30/after-the-collapse.html
 
 17. [优秀文章列表（必须得及时更新！！！](https://github.com/hello2dj/blog/issues/27)
-1. [业务 > 技术 or 技术 > 业务](https://github.com/hello2dj/blog/issues/2)
 2. [instanceof带来的思考与es规范的研究](https://github.com/hello2dj/blog/issues/6)
 3. [libuv overview and a C queue operation's analysis(copy)](https://github.com/hello2dj/blog/issues/7)
 4. [git 仓库同步（mirror）](https://github.com/hello2dj/blog/issues/8)
